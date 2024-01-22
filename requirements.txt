@@ -1,0 +1,8 @@
+# tgcrypto
+# pysondb
+# aiogram
+# numpy
+# psycopg2-binary
+
+# serialization
+dacite
